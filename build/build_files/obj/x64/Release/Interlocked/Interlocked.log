@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\jimts\Desktop\Interlocked\include\play_level.h(471,25): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  (compiling source file '../../src/main.c')
+      C:\Users\jimts\Desktop\Interlocked\include\play_level.h(471,25):
+      consider using '%zu' in the format string
+  
+C:\Users\jimts\Desktop\Interlocked\include\level_select.h(84,94): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../src/main.c')
+  
+C:\Users\jimts\Desktop\Interlocked\include\level_select.h(84,143): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../src/main.c')
+  
+C:\Users\jimts\Desktop\Interlocked\include\level_editor.h(235,53): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../../src/main.c')
+  
+  Generating code
+  Finished generating code
+  Interlocked.vcxproj -> C:\Users\jimts\Desktop\Interlocked\bin\Release\Interlocked.exe
